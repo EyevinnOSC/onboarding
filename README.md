@@ -31,6 +31,11 @@ The best way to get started and learn how you can build solutions based on open 
 - Level 2: GitHub workflow running Playwright tests where OSC instances are created before tests are run and removed when tests are completed
 - Level 3: Verify that client side ads are played and tracking is correctly reported
 
+## Frontend application
+
+- Level 1: A frontend application available online for a simple todo application where the todo list is stored in a CouchDB database
+- Level 2: User registration and login for access to the todo application
+- Level 3: A user can attach images and videos to a task in the todo list
 
 # Resources
 
