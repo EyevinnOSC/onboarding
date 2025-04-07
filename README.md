@@ -24,3 +24,19 @@ The best way to get started and learn how you can build solutions based on open 
 
 - Level 1: Monitor HLS streams and provide an open metrics endpoint 
 - Level 2: Create a ping service that provides an endpoint to trigger a check on a site and stores the result in a database
+
+## Player integration tests
+
+- Level 1: Setup a Playwright test to verify that an error event is reported when a segment cannot be downloaded
+- Level 2: GitHub workflow running Playwright tests where OSC instances are created before tests are run and removed when tests are completed
+- Level 3: Verify that client side ads are played and tracking is correctly reported
+
+
+# Resources
+
+- [Open Source Cloud Documentation](https://docs.osaas.io)
+- [Example solutions built with Open Source Cloud](https://github.com/EyevinnOSC/solutions)
+- [Javascript SDK documentation](https://js.docs.osaas.io)
+- [Open Source Cloud Developer Blog](https://dev.to/oscdev)
+- [Open Source Cloud Blog](https://blog.osaas.io)
+- [Slack community](https://slack.osaas.io)
